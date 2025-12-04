@@ -1,4 +1,4 @@
-![Grocery Inventory](grocery_inventory.png) 
+![Grocery Inventory](image/grocery_inventory.png)
 This project analyzes a grocery inventory dataset containing 990 products across multiple categories, suppliers, and warehouse locations. The goal is to detect expiry risk, stock-out risk, excess stock, slow movers, and supplier-related issues using a structured data model and a Power BI dashboard. The insights help reduce waste, optimize stock levels, and improve operational efficiency.
 
 The dataset includes product details, category, supplier information, warehouse location, status, stock levels, reorder thresholds, expiration dates, sales volume, turnover rate, and engineered fields such as Days_To_Expire, Near_Expiry, Stock_Gap, Stock_Coverage, and Product_Age. These fields support identifying which products require immediate action and where operational bottlenecks exist.
